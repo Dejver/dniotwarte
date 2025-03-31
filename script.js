@@ -1,6 +1,6 @@
 const allQuestions = [
   { q: "Rozwiń skrót AKSiM", a: ["Akademia Kultury Społecznej i Medialnej", "akademia kultury społecznej i medialnej"] },
-  { q: "Ile jest bierzni na siłowni?", a: ["3", "trzy"] },
+  { q: "Ile jest bieżni na siłowni?", a: ["3", "trzy"] },
   { q: "Ile kierunków jest na uczelni?", a: ["7", "siedem"] },
   { q: "Czym jest REPA?", a: ["Recepcja", "recepcja"] },
   { q: "Jak nazywa się sala, w której odbywają się wykłady inauguracyjne?", a: ["Aula", "aula"] },
